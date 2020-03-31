@@ -1,0 +1,41 @@
+.category__title {
+    font-size: 1.7rem;
+    color: rgb(5, 131, 189);
+}
+
+.email__title {
+    color: rgb(5, 131, 189);
+    font-size: 2rem;
+    text-align: center;
+
+    @include phone {
+        font-size: 1.5rem;
+    }
+}
+
+.header__title {
+    font-size: 3rem;
+    color: #fff;
+
+    @include phone {
+        margin: 1.5erm 0 0 0;
+    }
+}
+
+.history__title {
+    font-size: 1.6rem;
+    margin-top: 0;
+    color: rgb(5, 131, 189);
+}
+
+.product__title {
+    color: rgb(5, 131, 189);
+    margin: 0;
+}
+
+.review__title {
+    margin: 0 0 .4rem 0;
+    color: rgb(5, 131, 189);
+    font-weight: 200;
+    font-size: 1.4rem;
+}

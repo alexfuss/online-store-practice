@@ -1,0 +1,26 @@
+.history {
+    padding: 1rem 2rem 1rem 0;
+
+        &__content {
+            display: flex;
+        }
+
+        &__image--container {
+            width: 50%;
+            background-image: url(../../../images/hanged-clothes-2376190.jpg);
+            background-attachment: fixed;
+            margin-right: 4rem;
+            clip-path: polygon(0 0, 100% 0, 70% 100%, 0 100%);
+        }
+
+        &__text {
+            width: 50%;
+        }
+
+        &__desc {
+            font-size: 1.2rem;
+            line-height: 1.6;
+            color: #999;
+            margin-bottom: 2rem;
+        }
+}

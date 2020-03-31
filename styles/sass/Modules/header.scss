@@ -1,0 +1,23 @@
+.header {
+    background-image: linear-gradient(rgba(3, 144, 199, 0.29),rgba(0, 0, 0, 0.502)), url(../../../images/shallow-focus-photography-of-clothes-994517.jpg);
+    height: 80vh;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+
+        &__hero-content {
+            width: 50%;
+            text-align: center;
+            padding: 1rem 0;
+            margin: 0 auto;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+
+        &__desc {
+            font-size: 1.3rem;
+            color: #fff;
+            margin-bottom: 2.2rem;
+        }
+}
