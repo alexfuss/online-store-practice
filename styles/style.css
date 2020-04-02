@@ -60,7 +60,7 @@ body {
   margin-right: .7rem; }
 
 .header {
-  background-image: linear-gradient(rgba(3, 144, 199, 0.29), rgba(0, 0, 0, 0.502)), url(../../../images//shallow-focus-photography-of-clothes-994517.jpg);
+  background-image: linear-gradient(rgba(3, 144, 199, 0.29), rgba(0, 0, 0, 0.502)), url(../images//shallow-focus-photography-of-clothes-994517.jpg);
   height: 80vh;
   background-attachment: fixed;
   background-repeat: no-repeat; }
@@ -200,7 +200,7 @@ body {
     display: flex; }
   .history__image--container {
     width: 50%;
-    background-image: url(../../../images//hanged-clothes-2376190.jpg);
+    background-image: url(../images//hanged-clothes-2376190.jpg);
     background-repeat: no-repeat;
     margin-right: 4rem;
     clip-path: polygon(0 0, 100% 0, 70% 100%, 0 100%); }
@@ -253,7 +253,7 @@ body {
 
 .products {
   padding: 8rem 2rem;
-  background-image: linear-gradient(rgba(4, 128, 177, 0.201), rgba(0, 0, 0, 0.434)), url(../../../images//high-angle-view-of-shoes-322207.jpg);
+  background-image: linear-gradient(rgba(4, 128, 177, 0.201), rgba(0, 0, 0, 0.434)), url(../images//high-angle-view-of-shoes-322207.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed; }
